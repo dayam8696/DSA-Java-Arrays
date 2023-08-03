@@ -9,7 +9,7 @@ public class findi_array_element {
             if (arr[i] == num) {
                 System.out.println("Value is found at index " + i);
 
-
+                //dayam
             }
         }
     }
