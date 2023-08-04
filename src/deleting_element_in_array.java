@@ -21,7 +21,7 @@ static  int arr []={ 10 , 20 ,40 , 60 , 90 };
 
         //to check value is deleted or not
         System.out.println("The value after deleting that index is " + arr[2]);
-
+                // work by dayam
 
 
     }
