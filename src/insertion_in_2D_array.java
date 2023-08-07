@@ -24,6 +24,7 @@ public class insertion_in_2D_array {
             System.out.println("Invalid index for 2D array");
         }
     }
+    // code will execute sucessfully
 
     public static void main(String[] args) {
         insertion_in_2D_array obj = new insertion_in_2D_array(3,3);
