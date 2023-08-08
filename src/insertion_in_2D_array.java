@@ -2,6 +2,7 @@ import java.util.Arrays;
 public class insertion_in_2D_array {
     int arr [][] = null;
 
+    // Constructor
     public  insertion_in_2D_array (int numberofRows , int numberOfColoumns){
         this.arr = new int[numberofRows][numberOfColoumns];
         for (int row = 0 ;row< arr.length ; row++){
