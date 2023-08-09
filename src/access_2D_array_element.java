@@ -43,7 +43,11 @@ public class access_2D_array_element {
             access_2D_array_element obj = new access_2D_array_element(3,3);
             obj.insertValueInTheArray(1,2,30);
             obj.insertValueInTheArray(2,2,50);
+            obj.insertValueInTheArray(1,1,90);
+            obj.insertValueInTheArray(0,0,55);
+            obj.insertValueInTheArray(0,1,88);
             obj.access_array_element(2,2);
+            obj.access_array_element(1,1);
             System.out.println(Arrays.deepToString(obj.arr));
 
         }
