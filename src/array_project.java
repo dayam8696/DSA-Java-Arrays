@@ -15,6 +15,7 @@ public class array_project {
         System.out.println();
         System.out.println("The average temperature is :" + average);
 
+            // now let's do it by array method
         }
     }
 
